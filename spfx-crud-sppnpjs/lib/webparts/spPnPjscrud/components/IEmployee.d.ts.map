@@ -1,0 +1,1 @@
+{"version":3,"file":"IEmployee.d.ts","sourceRoot":"","sources":["../../../../src/webparts/spPnPjscrud/components/IEmployee.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,EAAE,MAAM,SAAS,CAAC;AAEhC,MAAM,WAAW,SAAS;IACtB,EAAE,EAAE,MAAM,CAAC;IACX,YAAY,EAAE,MAAM,CAAC;IACrB,eAAe,EAAE,MAAM,CAAC;IACxB,KAAK,EAAE,KAAK,EAAE,CAAC;IACf,IAAI,EAAE,MAAM,CAAC;CAChB"}

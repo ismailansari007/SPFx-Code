@@ -1,0 +1,1 @@
+{"version":3,"file":"Employees.js","sourceRoot":"","sources":["../../../../src/webparts/spPnPjscrud/components/Employees.ts"],"names":[],"mappings":"AAEA;IAKI,mBAAY,IAAgB;QACxB,IAAI,CAAC,EAAE,GAAG,IAAI,CAAC,EAAE,CAAC;QAClB,IAAI,CAAC,YAAY,GAAG,IAAI,CAAC,YAAY,CAAC;QACtC,IAAI,CAAC,eAAe,GAAG,IAAI,CAAC,eAAe,CAAC;IAChD,CAAC;IACL,gBAAC;AAAD,CAAC,AAVD,IAUC"}
